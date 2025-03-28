@@ -23,7 +23,7 @@ print("📋 Food Environment Atlas preview:\n", food_env.head())
 
 #%%
 #Checking available sheets in the Food Environment Excel file
-xls = pd.ExcelFile('food_env')
+xls = pd.ExcelFile(food_env_url)
 print("📑 Available sheets:", xls.sheet_names)
 
 #%%
