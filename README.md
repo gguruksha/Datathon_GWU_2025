@@ -49,8 +49,6 @@ Built using Python Dash:
 - 🗺️ Tab 1: U.S. map showing food desert tracts  
 - 📊 Tab 2: State-level summaries via dropdown  
 - 📈 Tab 3: Custom visualization — choose any two variables + chart type  
-- ✨ Dark mode, tooltips, exportable charts, and sidebar metadata
-
 ---
 
 ## 📈 Key Results
@@ -61,14 +59,6 @@ Built using Python Dash:
 - Interactive dashboard enables deeper exploration by policy teams and researchers
 
 ---
-
-## 🧩 Future Work
-
-- Integrate temporal changes in food accessibility  
-- Deploy on cloud with real-time updates  
-- Suggest targeted interventions using model outputs  
-- Incorporate geospatial overlays and clustering
-
 ---
 
 ## 👩‍💻 Author
