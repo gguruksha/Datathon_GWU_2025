@@ -10,7 +10,6 @@ Food deserts — areas with limited access to affordable and nutritious food —
 
 - Identify key drivers of food inaccessibility  
 - Predict food desert likelihood using machine learning  
-- Build an interactive dashboard to support data-driven policymaking
 
 ---
 
